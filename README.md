@@ -1,0 +1,1 @@
+conventor morseovky, obouma směrama

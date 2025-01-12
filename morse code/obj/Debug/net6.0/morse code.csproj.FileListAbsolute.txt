@@ -1,0 +1,15 @@
+C:\Users\david\Source\Repos\morse-code-convertor3\morse code\bin\Debug\net6.0\morse code.exe
+C:\Users\david\Source\Repos\morse-code-convertor3\morse code\bin\Debug\net6.0\morse code.deps.json
+C:\Users\david\Source\Repos\morse-code-convertor3\morse code\bin\Debug\net6.0\morse code.runtimeconfig.json
+C:\Users\david\Source\Repos\morse-code-convertor3\morse code\bin\Debug\net6.0\morse code.dll
+C:\Users\david\Source\Repos\morse-code-convertor3\morse code\bin\Debug\net6.0\morse code.pdb
+C:\Users\david\Source\Repos\morse-code-convertor3\morse code\obj\Debug\net6.0\morse code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Source\Repos\morse-code-convertor3\morse code\obj\Debug\net6.0\morse code.AssemblyInfoInputs.cache
+C:\Users\david\Source\Repos\morse-code-convertor3\morse code\obj\Debug\net6.0\morse code.AssemblyInfo.cs
+C:\Users\david\Source\Repos\morse-code-convertor3\morse code\obj\Debug\net6.0\morse code.csproj.CoreCompileInputs.cache
+C:\Users\david\Source\Repos\morse-code-convertor3\morse code\obj\Debug\net6.0\morse code.sourcelink.json
+C:\Users\david\Source\Repos\morse-code-convertor3\morse code\obj\Debug\net6.0\morse code.dll
+C:\Users\david\Source\Repos\morse-code-convertor3\morse code\obj\Debug\net6.0\refint\morse code.dll
+C:\Users\david\Source\Repos\morse-code-convertor3\morse code\obj\Debug\net6.0\morse code.pdb
+C:\Users\david\Source\Repos\morse-code-convertor3\morse code\obj\Debug\net6.0\morse code.genruntimeconfig.cache
+C:\Users\david\Source\Repos\morse-code-convertor3\morse code\obj\Debug\net6.0\ref\morse code.dll

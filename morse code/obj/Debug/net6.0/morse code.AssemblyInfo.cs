@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("morse code")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8678c5fb27103251542f2343c321da5f3df1846")]
 [assembly: System.Reflection.AssemblyProductAttribute("morse code")]
 [assembly: System.Reflection.AssemblyTitleAttribute("morse code")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
